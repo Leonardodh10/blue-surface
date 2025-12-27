@@ -3,10 +3,10 @@
 # image will be published to ghcr.io/<user>/<name>
 name: blue-surface
 # description will be included in the image's metadata
-description: Kionite with Surface drivers and a few packages I use
+description: Kinoite with Surface drivers and a few packages I use
 
 # the base image to build on top of (FROM) and the version tag to use
-base-image: ghcr.io/ublue-os/kionite-main
+base-image: ghcr.io/ublue-os/kinoite-main
 image-version: 42 # latest is also supported if you want new updates ASAP
 
 # module configuration, executed in order
