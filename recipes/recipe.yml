@@ -37,6 +37,7 @@ modules:
   - type: script
     scripts:
       - install_surface-kernel.sh
+      - install_sp4_edid.sh
 
   - type: default-flatpaks
     configurations:
