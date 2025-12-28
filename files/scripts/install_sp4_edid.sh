@@ -5,5 +5,5 @@
 # builds actually ran successfully without any errors!
 set -oue pipefail
 
-# Your code goes here.
+mkdir -p /lib/firmware/edid
 cp /etc/lib/firmware/edid/sp4-edid.bin /lib/firmware/edid/sp4-edid.bin
