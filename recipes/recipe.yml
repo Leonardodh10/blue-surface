@@ -47,4 +47,10 @@ modules:
           - org.mozilla.firefox
       - scope: user # Also add Flathub user repo, but no user packages
 
+  - type: kargs
+    kargs:
+    - drm.edid_firmware=eDP-1:edid/sp4-edid.bin
+
+  - type: initramfs # Regenerate initramfs due to our dracut changes and additional firmware file
+
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
