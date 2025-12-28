@@ -1,8 +1,11 @@
 # blue-surface &nbsp; [![bluebuild build badge](https://github.com/cameron-d/blue-surface/actions/workflows/build.yml/badge.svg)](https://github.com/cameron-d/blue-surface/actions/workflows/build.yml)
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
+A custom build of Fedora Kinoite made specifically for my Surface Pro 4.
 
-After setup, it is recommended you update this README to describe your custom image.
+Includes:
+- Surface Linux Drivers for touchscreen (Not Pen)
+- Custom EDID file to limit refresh rate to 48Hz to reduce flicker.
+- Applications: Firefox, Fish, Starship, Tailscale.
 
 ## Installation
 
